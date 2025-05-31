@@ -32,7 +32,7 @@ Una aplicación Flutter diseñada para ayudar a los Dungeon Masters a gestionar 
 - Dart SDK: 2.17.0 o superior
 - Dispositivos Android 5.0+ o iOS 11.0+
 
-## 🚀 Instalación
+## 🚀 Instalación desde Código Fuente
 
 1. Clona el repositorio:
 ```bash
