@@ -502,8 +502,9 @@ class _MonsterDetailScreenState extends State<MonsterDetailScreen> {
                           thickness: 1,
                         ),
                         const SizedBox(height: 16),
-                        Row(
-                          mainAxisAlignment: MainAxisAlignment.center,
+                        Wrap(
+                          //mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                          //crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             IconButton(
                               onPressed: () => _modifyHP(false, index),
@@ -547,7 +548,7 @@ class _MonsterDetailScreenState extends State<MonsterDetailScreen> {
                               padding: EdgeInsets.zero,
                               iconSize: 40,
                             ),
-                            const SizedBox(width: 24),
+                            const SizedBox(width: 24,height: 24,),
                             IconButton(
                               onPressed: () => _modifyHP(true, index),
                               icon: Container(

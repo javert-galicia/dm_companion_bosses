@@ -20,6 +20,9 @@ Una aplicación Flutter diseñada para ayudar a los Dungeon Masters a gestionar 
   - Colores y estilos acordes a D&D
   - Transiciones y animaciones fluidas
 
+## 📸 Screnshots
+![Pantalla de Dm Companion Bosses 1](/docs/screenshots/dm-companion-bosses-1.png) ![Pantalla de Dm Companion Bosses 2](/docs/screenshots/dm-companion-bosses-2.png) ![Pantalla de Dm Companion Bosses 3](/docs/screenshots/dm-companion-bosses-3.png) ![Pantalla de Dm Companion Bosses 4](/docs/screenshots/dm-companion-bosses-4.png) ![Pantalla de Dm Companion Bosses 5](/docs/screenshots/dm-companion-bosses-5.png) ![Pantalla de Dm Companion Bosses 6](/docs/screenshots/dm-companion-bosses-6.png)
+
 ## 🛠️ Tecnologías
 
 - Flutter
