@@ -36,12 +36,12 @@ Una aplicación Flutter diseñada para ayudar a los Dungeon Masters a gestionar 
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/dnd_monster_tracker.git
+git clone https://github.com/javert-galicia/dm_companion_bosses.git
 ```
 
 2. Navega al directorio del proyecto:
 ```bash
-cd dnd_monster_tracker
+cd dm_companion_bosses
 ```
 
 3. Instala las dependencias:
